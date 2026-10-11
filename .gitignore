@@ -1,0 +1,51 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Visual Studio / MSBuild
+*.csproj.user
+*.cache
+*.pdb
+*.ilk
+*.ncb
+*.opendb
+*.VC.db
+
+# Node (将来Docusaurus等に備え)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Office / PDF作業時の一時ファイル
+~$*
+*.autosave
+
+# Export / Preview temporary files
+*_preview/
+*_checks/
